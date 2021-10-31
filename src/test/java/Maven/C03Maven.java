@@ -1,4 +1,4 @@
-package d04;
+package Maven;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
